@@ -1,8 +1,13 @@
 # Exercise 1
-This exercise is a brief review of terminal commands. Like all exercises, you can see the answers in the `complete` branch. Open up your command-line terminal, and perform the following tasks (no need to clone or download this repository):
 
- ```bash
-# Navigate to your "Documents" directory
+This exercise is a brief review of terminal commands. Like all
+exercises, you can see the answers in the `complete` branch. Open up
+your command-line terminal, and perform the following tasks (no need
+to clone or download this repository):
+
+```bash
+# Navigate to your "Documents" directory (or wherever else you keep
+# your stuff)
 
 # Create a new directory "quick-exercise"
 
